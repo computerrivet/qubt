@@ -14,6 +14,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## [1.0.0] - 2023-11-25
 - Initial release
 
-[unreleased]: https://github.com/Chrede88/qubt/compare/v1.0.1...HEAD
-[1.0.1]: https://github.com/Chrede88/qubt/releases/compare/v1.0.0...v1.0.1
-[1.0.0]: https://github.com/Chrede88/qubt/releases/tag/v1.0.0
+[unreleased]: https://github.com/computerrivet/qubt/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/computerrivet/qubt/releases/compare/v1.0.0...v1.0.1
+[1.0.0]: https://github.com/computerrivet/qubt/releases/tag/v1.0.0

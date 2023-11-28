@@ -1,13 +1,13 @@
 name = 'Qubt'
 license = 'MIT'
-licenselink = 'https://github.com/chrede88/qubt/LICENSE'
+licenselink = 'https://github.com/computerrivet/qubt/LICENSE'
 description = 'Minimal blog Hugo theme'
 
 # The home page of the theme, where the source can be found
-homepage = 'https://github.com/chrede88/qubt'
+homepage = 'https://github.com/computerrivet/qubt'
 
 # If you have a running demo of the theme
-demosite = 'https://chrede88.github.io/qubt'
+demosite = 'https://computerrivet.github.io/qubt'
 
 # Taxonomy terms
 tags = ['hugo','minimal','responsive','dark','light','dark mode','blog']

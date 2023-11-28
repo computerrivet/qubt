@@ -7,13 +7,13 @@
     "build-tailwind": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/compiled/main.css",
     "dev-tailwind": "npx tailwindcss -i ./assets/css/main.css -o ./assets/css/compiled/main.css --watch",
     "example-site": "hugo server --source ./exampleSite --themesDir ../..",
-    "lighthouse": "export LIGHTHOUSE_BADGES_CONFIGURATION_PATH='./lighthouse-config.json' && npx lighthouse-badges --url https://chrede88.github.io/qubt/ --output-path ./lighthouse --badge-style plastic --save-report"
+    "lighthouse": "export LIGHTHOUSE_BADGES_CONFIGURATION_PATH='./lighthouse-config.json' && npx lighthouse-badges --url https://computerrivet.github.io/qubt/ --output-path ./lighthouse --badge-style plastic --save-report"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chrede88/qubt.git"
+    "url": "git+https://github.com/computerrivet/qubt.git"
   },
-  "homepage": "https://github.com/chrede88/qubt#readme",
+  "homepage": "https://github.com/computerrivet/qubt#readme",
   "keywords": [
     "Hugo",
     "blog",
